@@ -8,14 +8,14 @@
   
   .dropZone {
     margin-top: 20px;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding-top: 5px;
-    padding-bottom: 0px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
     height: 51vh;
     background-color: #3B333C;
     border-radius: 20px;
-    color: white;
+    color: #D9C2E3 ;
   }
   
   .image1 {
@@ -26,7 +26,7 @@
   .dank {
     display:flex;
     justify-content:center;
-    color: white;
+    color: #D9C2E3  ;
     font-size: 20px;
   }
   
